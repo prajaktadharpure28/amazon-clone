@@ -29,8 +29,8 @@ const Navbar = () => {
                             <ShoppingCartIcon id="icon" />
                         </Badge>
                         <p>Cart</p>
+                        </div>
                         <Avatar className='avtar' />
-                    </div>
                 </div>
             </nav>
         </header>
